@@ -4,11 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18969e1d-8913-49b4-903b-27ae95fa47b9" name="Default Changelist" comment="" />
+    <list default="true" id="18969e1d-8913-49b4-903b-27ae95fa47b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/academifyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/filter/CORSFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/filter/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/model/AuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/model/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/repository/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/resource/AlunoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/resource/AuthenticationResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/service/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifybackend/src/main/java/br/com/academify/util/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/academify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/aluno-editar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/aluno-inserir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/aluno-listar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/aluno-visualizar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/login-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/Resources/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/aluno/editarAluno.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/aluno/listarAlunos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/aluno/visualizarAluno.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academifyfrontend/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academifybackend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/academifybackend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academifybackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/academifybackend/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +61,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +73,26 @@
       <option name="presentableId" value="Default" />
       <updated>1617837120030</updated>
       <workItem from="1617837124342" duration="147000" />
+      <workItem from="1617995982211" duration="651000" />
+      <workItem from="1618243962647" duration="336000" />
+      <workItem from="1618353845819" duration="2355000" />
+      <workItem from="1622678631178" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
